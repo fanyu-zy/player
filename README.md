@@ -10,7 +10,7 @@
 
 # 完善后的播放器  
 ## 代码使用方法  
-编辑`CMakeLists.txt`，将第十行中的`w5player.cpp`改为w6player.cpp``  
+编辑`CMakeLists.txt`，将第十行中的`w5player.cpp`改为`w6player.cpp`  
 项目编译成功后，在工程目录下会有个一个Debug或者Release文件夹  
 文件夹内有运行生成的`mp4player.exe`应用程序文件  
 在包含exe文件的路径下运行cmd，输入`mp4player.exe`和将想要播放的文件的路径  
