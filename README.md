@@ -1,4 +1,4 @@
-# 基于ffmpeg+openAL+sdl的音视频同步播放器
+# 基于FFmpeg+OpenAL+SDL的音视频同步播放器
 ## 代码使用方法  
 项目编译成功后，在工程目录下会有个一个Debug或者Release文件夹  
 文件夹内有运行生成的`mp4player.exe`应用程序文件  
